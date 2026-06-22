@@ -140,3 +140,13 @@ Ulteriore evoluzione premium:
 - aura animata molto leggera intorno alla foto;
 - spotlight sottile su card, step e FAQ al movimento del mouse;
 - ottimizzazione tema scuro.
+
+
+## Versione 11
+
+Correzioni richieste da Ilaria:
+- foto hero spostata più in basso, meno immediata all’apertura;
+- su mobile la foto non compare più prima del testo;
+- rimosse le tre card rapide Triuggio / destinatari / appuntamento;
+- copy principale convertito in prima persona professionale;
+- sezione Metodo corretta: il testo sul primo colloquio è ora nel punto 2 “Primo colloquio”.

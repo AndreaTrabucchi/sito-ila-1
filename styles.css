@@ -2203,3 +2203,41 @@ html[data-theme="dark"] .lightbox-backdrop {
     transform: none;
   }
 }
+
+
+/* V11 — Correzioni richieste da Ilaria */
+.trust-strip {
+  display: none !important;
+}
+
+.hero-image-wrap {
+  margin-top: clamp(30px, 4vw, 58px);
+}
+
+@media (max-width: 860px) {
+  .hero-grid {
+    gap: 28px;
+  }
+
+  .hero-image-wrap {
+    order: 0;
+    margin-top: 18px;
+    width: min(100%, 310px);
+    max-width: 310px;
+  }
+
+  .portrait-hint {
+    display: none;
+  }
+}
+
+@media (max-width: 760px) {
+  .hero-image-wrap {
+    margin-top: 20px;
+    max-width: 286px;
+  }
+
+  .values-ribbon {
+    margin-top: 0;
+  }
+}
