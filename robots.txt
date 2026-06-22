@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://INSERISCI_DOMINIO/sitemap.xml
